@@ -1,3 +1,4 @@
+# HR-Analysis
 I used Power Bi as it's one of the most popular and powerful data visualization software.
 
 before building the dashboard, data needed a lot of transformation processes to be able to visualize and extract important information to make enhancements for the company depending on the data
@@ -26,4 +27,4 @@ Now, the data is ready for the dashboard
 The most important measures we need to build the dashboard are the percentage of Sick Leave, Presence, and Work from Home count.
 
 So I build them then the report shows those numbers in addition to their trend charts, with some useful tables
-# HR-Analysis
+
